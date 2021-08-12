@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway&display=swap");
+
+@import "./utils/_mixins";
+@import "./utils/_vars";
+
+@import "./blocks/normalize.scss";
+@import "./blocks/header.scss";
+@import "./blocks/nav.scss";
+@import "./blocks/main.scss";
+@import "./blocks/actual.scss";
+@import "./blocks/events.scss";
+@import "./blocks/visit.scss";
+@import "./blocks/news.scss";
+@import "./blocks/subscribe.scss";
+@import "./blocks/footer.scss";
